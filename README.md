@@ -31,10 +31,8 @@
 
 ---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,git,vscode&perline=10" alt="Skills"/> </p>
-
-Languages: Python · Java · JavaScript/TypeScript Data & ML: Pandas · NumPy · Scikit-learn · Data Cleaning & EDA · Model Building Web/App: React · Node.js Tools: Git & GitHub · VS Code · Jupyter Notebook
 ---
 
 ### 🚀 Featured Projects
