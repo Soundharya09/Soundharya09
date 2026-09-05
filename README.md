@@ -48,21 +48,12 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Soundharya09&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Soundharya09's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soundharya09&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soundharya09&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soundharya09&hide_border=true" alt="GitHub Streak"/> </p>
 
 ---
 
 ### 📫 Let's Connect
 
-Open to opportunities and collaborations in **Data Science, ML, and Analytics**.
-Reach out on [LinkedIn](https://www.linkedin.com/in/soundharyaiyer09) or check out my problem-solving on [LeetCode](https://leetcode.com/u/Soundharya009/) and [HackerRank](https://www.hackerrank.com/profile/soundharyaiyer99).
+Open to opportunities and collaborations in Data Science, ML, and Analytics. Reach out on LinkedIn or check out my problem-solving on LeetCode and HackerRank.
 
-<p align="center">⭐ from <a href="https://github.com/Soundharya09">Soundharya09</a></p>
+<p align="center">Connect with me: <a href="https://www.linkedin.com/in/soundharyaiyer09">LinkedIn</a> | <a href="https://github.com/Soundharya09">GitHub</a></p>
