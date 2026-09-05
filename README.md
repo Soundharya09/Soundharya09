@@ -57,3 +57,5 @@
 Open to opportunities and collaborations in Data Science, ML, and Analytics. Reach out on LinkedIn or check out my problem-solving on LeetCode and HackerRank.
 
 <p align="center">Connect with me: <a href="https://www.linkedin.com/in/soundharyaiyer09">LinkedIn</a> | <a href="https://github.com/Soundharya09">GitHub</a></p>
+
+<br/>⭐ If you find this profile or any of my projects useful, consider dropping a star — it means a lot!</p>
