@@ -26,22 +26,15 @@
 - 🌱 Deepening my skills in **Machine Learning** and applied **Data Science**
 - 🧠 Strong foundation in **Python, Java, and Data Structures & Algorithms**
 - 📊 Enjoy turning raw, messy data into dashboards, scores, and insight
-- 📍 Based in Bharuch, India
+- 📍 Based in Bengaluru, Karnataka, India
 - ⚡ Fun fact: I'd rather debug a pandas pipeline than avoid one
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,git,vscode&perline=10" alt="Skills"/> </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,pandas,sklearn,git,vscode&perline=10" alt="Skills"/>
-</p>
-
-**Languages:** Python · Java · JavaScript/TypeScript
-**Data & ML:** Pandas · NumPy · Scikit-learn · Data Cleaning & EDA · Model Building
-**Web/App:** React · Node.js
-**Tools:** Git & GitHub · VS Code · Jupyter Notebook
-
+Languages: Python · Java · JavaScript/TypeScript Data & ML: Pandas · NumPy · Scikit-learn · Data Cleaning & EDA · Model Building Web/App: React · Node.js Tools: Git & GitHub · VS Code · Jupyter Notebook
 ---
 
 ### 🚀 Featured Projects
