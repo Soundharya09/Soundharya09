@@ -33,6 +33,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,git,vscode&perline=10" alt="Skills"/> </p>
+
 ---
 
 ### 🚀 Featured Projects
