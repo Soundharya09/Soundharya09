@@ -40,7 +40,7 @@
 
 | Project | Description |
 |---|---|
-| [**Research Dataset Quality Assessment Tool**](https://github.com/Soundharya09/Research-Dataset-Quality-Assessment-Tool) | Enterprise-grade platform that automatically evaluates research datasets, generates quality scores, detects issues/drift, and gives actionable recommendations. |
+| [**E-Learning Content Management System with Quiz Module**](https://github.com/Soundharya09/E-Learning-Content-Management-System-With-Quiz-Module) | A robust, modern e-learning platform that digitizes course delivery and assessment — instructors build rich courses with multimedia content and auto-graded quizzes, while students learn, take assessments, and track progress in real time. |
 | [**AI-Powered Exam Proctoring System**](https://github.com/Soundharya09/AI-Powered-Exam-Proctoring-System-With-Cheating-Detection) | Production-ready full-stack app using Computer Vision and ML to detect cheating during online exams in real time. |
 | [**Recruitment Performance Analytics Dashboard**](https://github.com/Soundharya09/Recruitment-Performance-Analytics-Dashboard) | Cleans, merges, and analyzes recruitment data with Python to surface key hiring insights. |
 | [**Campus Recruitment Analytics Dashboard**](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard) | End-to-end analytics project on student placement performance, salary outcomes, and employability factors. |
